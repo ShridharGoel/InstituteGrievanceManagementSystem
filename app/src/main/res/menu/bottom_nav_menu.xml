@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/feed_item"
+        android:icon="@drawable/feed_icon"
+        android:title="Feed"/>
+
+    <item
+        android:id="@+id/search_item"
+        android:icon="@drawable/search_icon"
+        android:title="Search"/>
+
+    <item
+        android:id="@+id/complaint_item"
+        android:icon="@drawable/person_icon"
+        android:title="Grievances" />
+
+    <item
+        android:id="@+id/chatroom_item"
+        android:icon="@drawable/chatroom_icon"
+        android:title="Chatrooms"/>
+
+    <item
+        android:id="@+id/profile_item"
+        android:icon="@drawable/person_icon"
+        android:title="Profile"/>
+
+</menu>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name_institute_management">Institute Grievance Management App</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="new_user_click_here_to_register">New User? Click here to register</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_an_user_click_here_to_login">Already an user? Click here to login</string>
+    <string-array name="categories_list">
+        <item>Academic</item>
+        <item>DSW</item>
+        <item>Non-academic</item>
+        <item>Amber</item>
+        <item>Sapphire</item>
+        <item>Diamond</item>
+        <item>Jasper</item>
+        <item>Ruby</item>
+        <item>Rosaline</item>
+        <item>Topaz</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="visibility_options">
+        <item>Public</item>
+        <item>Students only</item>
+        <item>Admins only</item>
+    </string-array>
+</resources>
